@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: file:///Users/richardurunuela/IOSAPP/siteGit/Ignite/appstore/https:/hubo-soft.github.io/appstore/sitemap.xml
+Sitemap: file:///Users/richardurunuela/IOSAPP/siteGit/Ignite/appstore-V1/https:/hubo-soft.github.io/appstore/sitemap.xml
